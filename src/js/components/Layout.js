@@ -9,7 +9,7 @@ export default class Layout extends React Component {
 		return "Will" + val;
 	}
 	*/
-	//instead you can use a constructor. Not you have to call super() on the 
+	//instead you can use a constructor. Note you have to call super() on the 
 	//first line of the constructor
 	constructor() {
 		super();
